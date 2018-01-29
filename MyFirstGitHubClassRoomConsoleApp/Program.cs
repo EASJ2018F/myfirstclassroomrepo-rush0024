@@ -11,7 +11,9 @@ namespace MyFirstGitHubClassRoomConsoleApp
         static void Main(string[] args)
         {
             //Opgave tilføj en Console.writeline med noget tekst og commit + push
-            //se herefter på dit GitHub Classroom repo om ændringen er kommet op 
+            //se herefter på dit GitHub Classroom repo om ændringen er kommet op
+
+            Console.writeline("write or read the lines");
         }
     }
 }
